@@ -1,4 +1,5 @@
 # guia5
 
-integrantes: Denise valdés 
-             Sebastian Benavides
+# integrantes 
+- Denise valdés.
+- Sebastian Benavides.
